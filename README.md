@@ -15,7 +15,7 @@ Estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos, 
   <img src="./src/Coding Hello World GIF.gif" alt="study gif" height="190px">
 </div>
 
----
+
 
    
 
