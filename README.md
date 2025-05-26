@@ -43,7 +43,7 @@ Estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos, 
       <br>HTML5
     </td>
     <td align="center"  width="96">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"  height="40"/>
+     <img src="https://camo.githubusercontent.com/eed59029fe16e0f33431721522fb0eede534a072db478245b89b6bc4ab1b10f3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373"  height="40"/>
       <br>Express
     </td>
 
