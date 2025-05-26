@@ -96,7 +96,7 @@ Desenvolvedor em formação, apaixonado por tecnologia desde a infância. Comece
 ## 📊 GitHub Stats
 <div style="text-align: center;" align="center" >
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guilhermedomeneghini&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=00E9F7FF&text_color=ffffff&border_radius=3&border_color=00E9F7FF&icon_color=00E9F7FF&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=00E9F7FF&text_color=ffffff&border_radius=3&border_color=00E9F7FF&icon_color=00E9F7FF&theme=jolly" alt="GitHub stats">
 
   <a href="https://github.com/guilhermedomeneghini">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilhermedomeneghini&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00E9F7FF&hide=html,scss,less&bg_color=000000&text_color=00E9F7FF&border_radius=3&border_color=00E9F7FF&count_private=true" alt="Most Used Languages">
