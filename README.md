@@ -81,7 +81,7 @@ Desenvolvedor em formação, apaixonado por tecnologia desde a infância. Comece
 
 ---
 
-## 📫 Como me encontrar:
+<h3 align="center">📫 Como me encontrar:</h3>
 <p align="center">
   <a href="mailto:guilherme.walmeling@gmail.com">
     <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=b6ff006&color:FFF">
@@ -90,15 +90,19 @@ Desenvolvedor em formação, apaixonado por tecnologia desde a infância. Comece
 >
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=b6ff00&color:FFF">
   </a>
+  <a href="https://github.com/guilhermedomeneghini" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white&labelColor=00E9F7FF" alt="GitHub">
+  </a>
 </p>
 
+---
 
-## 📊 GitHub Stats
-<div style="text-align: center;" align="center" >
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guilhermedomeneghini&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=00E9F7FF&text_color=ffffff&border_radius=3&border_color=00E9F7FF&icon_color=00E9F7FF&theme=jolly" alt="GitHub stats">
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guilhermedomeneghini&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=00E9F7FF&text_color=ffffff&border_radius=3&border_color=00E9F7FF&icon_color=00E9F7FF&theme=jolly" alt="GitHub stats">
 
-  <a href="https://github.com/guilhermedomeneghini">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilhermedomeneghini&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00E9F7FF&hide=html,scss,less&bg_color=000000&text_color=00E9F7FF&border_radius=3&border_color=00E9F7FF&count_private=true" alt="Most Used Languages">
-  </a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilhermedomeneghini&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00E9F7FF&hide=html,scss,less&bg_color=000000&text_color=00E9F7FF&border_radius=3&border_color=00E9F7FF" alt="Most Used Languages">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=guilhermedomeneghini&theme=dark&background=000000&ring=00E9F7FF&fire=00E9F7FF&currStreakLabel=00E9F7FF&sideLabels=ffffff" alt="GitHub Streak" />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00E9F7FF&height=120&section=footer"/>
